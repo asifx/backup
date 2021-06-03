@@ -1,2 +1,2 @@
 # backup
-Backups for new mx-linux installation
+Backups and scripts for new mx-linux installation
